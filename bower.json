@@ -1,0 +1,15 @@
+{
+  "name": "gulp-project",
+  "description": "First Gulp Project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
